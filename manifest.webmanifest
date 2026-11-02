@@ -1,0 +1,10 @@
+{
+  "name": "SONORA Music Studio",
+  "short_name": "SONORA",
+  "description": "Личная музыкальная библиотека с офлайн-прослушиванием",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0c12",
+  "theme_color": "#111017",
+  "icons": []
+}
